@@ -22,8 +22,9 @@ This project was completed as part of a Riipen experiential learning engagement 
 ## How to navigate this repo
 ```
 /
-├── report/       Redacted copy of final recommendations report
+├── presentation/  Redacted copy of final presentation
 ├── dashboard/     Screenshot of the Power BI dashboard
+├── report/        Redacted copy of final recommendations report
 ├── docs/          Redacted copies of project plan, exploratory data analysis, data management artifacts, and ethics and governance report
 └── README.md      This file
 ```
